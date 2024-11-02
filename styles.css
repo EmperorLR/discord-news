@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+header {
+  background: #282c34;
+  color: #fff;
+  text-align: center;
+  padding: 1.5em;
+}
+
+h1 {
+  margin-bottom: 0.5em;
+}
+
+main {
+  max-width: 800px;
+  margin: 2em auto;
+  padding: 0 1em;
+}
+
+.news {
+  background: #f9f9f9;
+  margin-bottom: 1.5em;
+  padding: 1em;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #333;
+}
+
+.date {
+  font-size: 0.9em;
+  color: #666;
+}
+
+footer {
+  text-align: center;
+  padding: 1em;
+  background: #282c34;
+  color: #fff;
+}
