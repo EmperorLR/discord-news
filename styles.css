@@ -119,3 +119,8 @@ form button:hover {
   background: #4a57d1;
 }
 
+.publish-date {
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 0.5em;
+}
